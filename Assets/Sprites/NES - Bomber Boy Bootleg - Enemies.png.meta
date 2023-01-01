@@ -1,0 +1,6131 @@
+fileFormatVersion: 2
+guid: 098ff8dbaa106684dbcb183d9a904995
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481df8ad555a6a54bb3c515525f3ed72
+      internalID: -1151534324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 291
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb11291a4a24ffa44aa5cb90cf61ce00
+      internalID: 437370458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 291
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9640eeb4abada924bab3f23c69f3c1c4
+      internalID: -1372252546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 291
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943f604aac8439748bbb10722d06101d
+      internalID: -1732326883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 291
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36cd6d40968e424b888b74e535c17e2
+      internalID: -1901346940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 291
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e560da6518f73468338bab0a39d21c
+      internalID: 1366503078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 293
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79268f86ed811e64fb7bcb89f59d08e3
+      internalID: 1186558377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 291
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd025a53d16a8d43b53f7fcb467ee2c
+      internalID: -286554283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 293
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b114c522a06043d4daedf5b781935ea3
+      internalID: 2079908820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 292
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7ba783433eee14598808e875d394de
+      internalID: 825244257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 290
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b8125e8cffa404b9ba19b9efa7c4a2
+      internalID: -1651576403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 292
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb4687d5dae4e740a580c2ccdea92af
+      internalID: 865705509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 291
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66676573eb024f44a956428f0f47c9f6
+      internalID: 316382130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 291
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc0070acb4ac934282aa8485c2537ab
+      internalID: 110593163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 291
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab7dac00e3d66a4bb9a1c971fadc885
+      internalID: -1243053478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 291
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6602c324c985bbc47ac87480894fdd9a
+      internalID: 1827043025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 291
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e1e77b55b70864390b6ca910689ac4
+      internalID: -6672253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4a0a4bdfac17479168a43ed0a3d3c
+      internalID: -170916834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 266
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a61fdb8148e0674fbb3234a15aee9e5
+      internalID: -892319038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 266
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f2643b8a7d73d42962cd25173cc379
+      internalID: 1231450858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 266
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539f65bc394dc894f81ec26b98cf7b02
+      internalID: -1631608008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 266
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb07bc3c7fef9824dbdf45e358e4a891
+      internalID: 222264020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 266
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccacfc4d168a1941ac6f962d9bc7cf8
+      internalID: 1471509788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 266
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d3ec2b828acfa46a17f179cf2189bf
+      internalID: -203760575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 266
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85bcb923906ed9408da488a67fd7da5
+      internalID: 780341583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 266
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e308d04b0aa2b64fa334a6e1b7b8be4
+      internalID: -1714429854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 266
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b206f9842d3160f49a35a7718c33875b
+      internalID: -1525676680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 266
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc02fdc7f45a294cb2f5d0de950f4d8
+      internalID: 752815085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 266
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660e9166adb18844ca31eeecef1b50ae
+      internalID: -622088234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 266
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05533768e765f1044aa39a131b8bea11
+      internalID: -1777910725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 266
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce31dbeb2289901448576db7598cbd39
+      internalID: -2120646321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 266
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd2bc5072233244b8e79aa606a2e634
+      internalID: 1627120817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 266
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7047e22e23a4b43bc732e9eecb2887
+      internalID: -1529244439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 266
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5b01f681be79d47a1572e17111ef21
+      internalID: -429718665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 266
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3930e22d092c4174a860c22b5541f1ce
+      internalID: 807865512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255a06199bbb70042ba43d1ee108efa1
+      internalID: 1159467807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 233
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c96cb05706cb24ba75c15af311a1b2
+      internalID: -268375638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b6347a3afb984abc1341f61e74bec
+      internalID: 243497149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42670337a8ab9748b7091e5e5f7fed4
+      internalID: 13283205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 233
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a05980b66553846a15724a753ef7d2
+      internalID: 96196254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea91df2e7745ed4b939c5d10435aa2e
+      internalID: -1854044553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 233
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03d3256f383ba746bd71f2b254738cf
+      internalID: -1392358182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04366246794c23d48a48a2b262b47a93
+      internalID: 903078465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 233
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7312520c5b809554d9d62f9c0dc53f94
+      internalID: -1139003281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 233
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a6548bdc8e6bc46a175ebad43c77d0
+      internalID: -1070726619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4463364a0fd5e1f40bcd7df6887b4308
+      internalID: -1866631236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 233
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858bcdfb9e1b0f648be028b3f59ba40d
+      internalID: -220902658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 241
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f8d0ee6e8ed374e972b1bf823fa2c9
+      internalID: -1921367853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 241
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512eaef3e1b25f649943227df69117a6
+      internalID: 1881684221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 241
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d108c9d97ad42144198031af9f9f629c
+      internalID: 1349221650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 241
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d10bfe2bc3cd34186b39fd334f4b22
+      internalID: 850502575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 241
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f98ab18f28e74db80d68aceab0fbf
+      internalID: 1400216162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 241
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc91a99bd236448be561df04447821
+      internalID: -1904509178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 241
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170296800449c5e428b0eecb7acf7ea1
+      internalID: 301498552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 241
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78901465c4725be4d9c9fe09f8bd3486
+      internalID: 2131145777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ecf8e355fe5fa43a68a340d1080115
+      internalID: -980018694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1fd69fadb188e4ca56947cdc761bd0
+      internalID: -599457460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03fb0347ba9d7a4092177a76b2c836e
+      internalID: 1618973906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e49ade8ff2bed44b123c3ed557085b
+      internalID: 957077792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5993b35fb68f09943b452469a99af10e
+      internalID: 1684918423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf00e1f2d769d0041baf3716be90b8dc
+      internalID: 1546841732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d57bbcdf1b1d6547915358c444cf2bc
+      internalID: 1769995308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a060207741a55524b925ff43d761f3f1
+      internalID: -429788484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a549f40468421a446b63757565c22805
+      internalID: 379093084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630540dd624bb9241a8294c1127509b7
+      internalID: -327689244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f0fe1f2e4ea5945bbe6cbf85d41999
+      internalID: -1624521836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f408e51abc2cb499dd9303b44c0cd5
+      internalID: -846211612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 216
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abf8b8473052de41a24961cd0e3122b
+      internalID: 1718814809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 216
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74226674b9350ef40a22929e6b0ffadd
+      internalID: -1079387114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 216
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb279b47bec8bfb4aabf661010716b1d
+      internalID: -937683669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 216
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed3d5c9ee2f5ae4bbe4cf1410f15e69
+      internalID: 3284313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 217
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db9cbfb07a6134fb1a8986556929f9
+      internalID: -453001351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 216
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a286a846bb99ae45addc990bfc45699
+      internalID: -712619775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 216
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562d01169f5431b46af42a3f33825826
+      internalID: -1993404299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 216
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df35e231e5c122b40ae9442025bed7b2
+      internalID: 578824941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 216
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc730597abe2574c873dd73b1c951aa
+      internalID: -18290328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 216
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b73562784f3dc4d829c178d18999d3
+      internalID: 362556791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da19d2f47f38e30419564992a624cd31
+      internalID: -480994271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 198
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0707232b3a8854896549fa4a8cbf33
+      internalID: -583137858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 197
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fe5dc40b84449408cf4c5f0753d7ee
+      internalID: -1729425017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 198
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967443d263ab9cd42be3df1948a56d26
+      internalID: -1968143563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 195
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd683dec7842603408d6e8a42ae26fe7
+      internalID: 1411056844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 195
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177a0a638cf38874297169719fcd140f
+      internalID: 1639720062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 195
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff08c46caa232d468a7809ef52e37f8
+      internalID: -1049880277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 197
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818fc63291537e342b86d2e37619869b
+      internalID: 1445911796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 199
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edefb9839953be74994083f6ac094ea2
+      internalID: 1363574280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 199
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbc6a840c702d548a382ec7000d9fa3
+      internalID: 1894596533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 199
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2c12761d3e69245a334da200ce2f41
+      internalID: -1427018698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 199
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e57cb0da56551446b8dd67d1e53cb00
+      internalID: 617660706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06db14872cb9bd7488084ce760b67aae
+      internalID: 759856268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a535e47fa592c0b4380aeeef24a87259
+      internalID: 1251000429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d2e53e37ca7d44e90ac878e3700101
+      internalID: 1249252675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 182
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b419cbc1c7bb06945a61f5bea6edea03
+      internalID: 1218597216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 182
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8a9b487f450b479b929a8088f7cc0
+      internalID: -892553557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 182
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12baa33875e5d941b71e7c80794ee3c
+      internalID: -1022936639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 182
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addbcce7a04f5074ba39bbb64201cbed
+      internalID: 1251574483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e1abe708dae54449f60da81acc6ac0
+      internalID: -984566037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 182
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab8ce751d7e5f047bab2f86b70ce18e
+      internalID: -1109518371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 182
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a8d0614b27f4a40a17cd470277209c
+      internalID: -1889415888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 182
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b106a854f375498acc4f179657a28
+      internalID: 69679208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147b7b64876b8d4d85c849aa2832306
+      internalID: -1220529249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 182
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776013d20c5057d42ba4b5373d9b612a
+      internalID: -1491755894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea2f94d2273f74d93b61926f8dc4e2
+      internalID: -1523416903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ed31da8cc7c3c448ea0f30796f5fda
+      internalID: 1957393865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596bc949c4a7b974bb33ce28045a4a27
+      internalID: 933166298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac3c35172c59c544b20cb3e5ce7cc65
+      internalID: -1961304449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a1ca05286fe5c45a8fd9502e9523c7
+      internalID: -38029392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2c2f786a494374e82616e0443b4c0b
+      internalID: 758677390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fb7603b9038724ba3296ec1509e449
+      internalID: -1900505531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13199750b77e6d4489522ea4af1fb52
+      internalID: 280127532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b6528eeac8074e939027359f986ae
+      internalID: 1613917280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d392bf15b13ac4698ce16c43cab847
+      internalID: -767422926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebe1e07b6df8b4abd3fccce7f0a1ce
+      internalID: 2023763706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c408191143b00384fbcee548ac51db69
+      internalID: -2019856319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 169
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a908c7db2e025714a90ba2892b925111
+      internalID: 1812706128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 169
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1ed9bcb87518742bd57ac99f395d22
+      internalID: 1896273197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 168
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2db55a36dcd1d43ab86b3ea3c39dc1
+      internalID: 1791670553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 169
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9599ac8b01237448a5ebfe9feaea68
+      internalID: -369919536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 169
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ba347716107a747bc3a1c412de5a6d
+      internalID: 1928513580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 168
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215de8d867795647989f06a5b2ab619
+      internalID: -56146607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a98fdaf41e9cd244a3a958b21a6e6ab
+      internalID: 471869063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f8d7af27e32c54595810f329354f5b
+      internalID: 333476638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cf3ff59b4e7ae43a740ae523347713
+      internalID: -1604589242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57cc40c80375b449f99f69fc11c9ba
+      internalID: 2100174471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30ecf5733b6b3341869fc3877393c93
+      internalID: -1957498371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43853a5c6032bd84793f14773f89ca87
+      internalID: 812829114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 165
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d693bd2416f24314cae741a22ac75fc2
+      internalID: -142332618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 165
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc8ba4b1e0eaa948b71ac613f49e7f4
+      internalID: 1056642681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 165
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112cbeef36bba1744b0afa51fcbb8515
+      internalID: -1842842971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 165
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198ffdc252f723243b3301265ea1f2df
+      internalID: 401379402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b48a09891633044b06201dba949b4f
+      internalID: 998686648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 148
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757430b485f7ddf4aba2dddb68870b03
+      internalID: -1897137585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 148
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a2520ec2951e345a3846f48c3f1553
+      internalID: -1834155714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 148
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb185953ce1f01f4b84b0cd6b36ce7bc
+      internalID: 1939525390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fcbc0b965cdd7478dd6d31213e02ef
+      internalID: -1103886253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 148
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a55695283978408bb0c60ed589ae1
+      internalID: 410927979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 148
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f17d99291aa704c819c46f23ef5c3e
+      internalID: 1786203037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 148
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ac80b14c7c3db4fa8e205b0fdefcc0
+      internalID: 1179893154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8721c34470865c4987557146be3a3f6
+      internalID: 1450478587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c308ae3b9b5e4e8f183d883fcef1f
+      internalID: -533036924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 148
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66d040e510100a4b891766674b572d3
+      internalID: -1446006148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 148
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c225201a04322be4b9308e41d5c80eb1
+      internalID: -1046093002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e871dce290eb34479fe311fafe49bc9
+      internalID: 1639395636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 153
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8465ea99672c26e46b017b069d881e17
+      internalID: 1190824937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4882f93e60d12914fa90af96746beb5e
+      internalID: -1242232410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38503c2a5981a6545811cda8a50e6446
+      internalID: -1160596839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 153
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19920608ece3ef42baaf0e64eb48474
+      internalID: 1266086221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a031857e7f73ec4798c7044a42afde9
+      internalID: 324501279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 148
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f545aae5f230b44810876ad9eb0bae
+      internalID: -2131671428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 148
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7e60dee7bce6e47bd09352f16725b7
+      internalID: -1595638836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f133fe0b35efe744b851edf0a0939825
+      internalID: -1405400379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b823d34f3260644d8a9757d2f2604f1
+      internalID: -779259341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 148
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202bf044d2c10e0468165f5785f20589
+      internalID: -1404544079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 148
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30b0bd33caa6549ae9fb12565ce968
+      internalID: -1291965612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 123
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e9229160db81d4b8d4f6e7b180a547
+      internalID: 703348151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 123
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7351d9116c096b24196319d306c0130e
+      internalID: 682713272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 123
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d8cbb2acc947e48a4718a5f3d27393
+      internalID: 474198061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 123
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1441d4d925ff12944a79c03d89da513a
+      internalID: 1705197267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 123
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5afa4e2ea8c9943a6d63a79a3b9500
+      internalID: -2069358840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 123
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae69c7fcb04775d41b33c101254965f4
+      internalID: -183649338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 115
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89170b6cd784b254e98a3cde0cc381de
+      internalID: 768944595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 115
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d018f0b045c23419cc32928da56ab0
+      internalID: 946798635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 115
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f019d020080a4d4283d049739ebe0a7
+      internalID: 1042032276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 115
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55620b74ce8b53f47b1b0dffafcd9274
+      internalID: -1481089620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 115
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b8e34ee1597ba40b118cbea641f0bf
+      internalID: -639471584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 115
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2c2faa54f114f47b76513e2c601a92
+      internalID: -1110337507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a407c56ef90c54e84365baf4c8ddc7
+      internalID: 1499695571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 115
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84054f26bbdaeef4fb79d39110f8a552
+      internalID: 1792133417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2126190c1b2674a8052739a68373bc
+      internalID: -236280787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed4fcb541f21d42a6cc8d4749ba9ee
+      internalID: 1096017992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 115
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc88f59a31e5dd04b997edfa3fc7eaf8
+      internalID: -2076741832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d0c1957482b3545b6a3c97b1223b80
+      internalID: 1952231958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 116
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d031822f3d6650f46b2b5754aca49f58
+      internalID: -1362893058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1211575e226f5ac4a964d5a80d25eb1d
+      internalID: 748987733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 116
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce930dce89823c147987c448c9d0acb8
+      internalID: 1677652411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 116
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346092e1c22a65d4a9b561bbd029faea
+      internalID: -1021920292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4126d733f657b7e409715c16b1353f69
+      internalID: -1845177880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 116
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e19a8685094fe4c9754b90e08610e4
+      internalID: -1251483255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 116
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035d883027e7bb648a0f782a0972e4e9
+      internalID: 1859321754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f495e1995b31714f9d1ff65bcc1c01b
+      internalID: -359901088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 116
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb932f14a8574e4e886ac786961fc0d
+      internalID: 335150438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 116
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ec09236fc98da4b85b778db3047542
+      internalID: -517174460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658f8ec552fe87c498a450d321793e4f
+      internalID: 636828332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 116
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0981d89f567342479b67ed2a81a7bd1
+      internalID: -1848783407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6191db42a2ea74b4eb3c12b03e3545b7
+      internalID: 2090919345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6ac33fd7c5c2b4e8926c8be855e6a7
+      internalID: 690089500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 98
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f58c011947dcb4c8830d33a5046a73
+      internalID: -1894392319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ca81f77a815f449ad1388f7a22608
+      internalID: -501540945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 98
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bb6f42f638be74983a07e692895a1a
+      internalID: 549372546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 98
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc107dd1c2f46489fa368946d95864
+      internalID: 1237593199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59640ee21dad571488b998f83575577b
+      internalID: 493112827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ac94a8fa4f2bd4eb1d632e98f0b9c5
+      internalID: 923350781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a930b2da73c4cab48a6ccbc29ad3bb60
+      internalID: -1832773668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4902206e1ae83e74d8da61869dd9b04c
+      internalID: 2119504677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826931335c3cffb42967a10bc8f3bf8f
+      internalID: 1920045875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_195
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2f6a735cd5954eb5f953964c6d1a2
+      internalID: -1497421272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_196
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7d6125635c83a42a93821f52146f3f
+      internalID: 837798451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_197
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b18c68cddd8694d899e3cbec323d6d
+      internalID: -564255213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_198
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831f2473f7d5aa846b0d871e6bc90196
+      internalID: 342221791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_199
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce4e76d7bf0dc145a50a90a5f319099
+      internalID: -120548410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_200
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1153ac98b7e469f4cbd7c095902c094c
+      internalID: -1626763485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_201
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37caabe9fbd8534bb00f920e187f7a3
+      internalID: -1038679238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_202
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f82703b17d6ec4ba30b3abbbce7e53
+      internalID: -872790098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_203
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb2feada29e1241acac0a10fb743c9
+      internalID: 132538200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_204
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83fcf1a54ed93248a02e46def9a36ad
+      internalID: 1337973690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_205
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c301e786aab8b4c8895f1de4529370
+      internalID: -11998924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_206
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1bda7c1bb3ff4182fa4ca6885bdcd
+      internalID: -1305242502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_207
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dfe02a44ff09844ba28a102aec38df
+      internalID: 1301703360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_208
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ef4d0e3962c024eb5b30d533a35dd6
+      internalID: 1474470178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_209
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e11ccb7c94108409ce6b1170766bd4
+      internalID: -1483384566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_210
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d29c280d043a44a3ae7effee8fee2
+      internalID: 541763232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_211
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de78a61e118e754db722f02c01db28d
+      internalID: -482534538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_212
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc8f9f78cf47b041800174cd6d8fd22
+      internalID: -621946938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_213
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d27976908e9d247b739e033523a374
+      internalID: 20236287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf10677eccb8996408299e8a9eb7db84
+      internalID: -1703865854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_215
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 74
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ac17e90c7415540ab8483a90564b61
+      internalID: 1823059254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_216
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 74
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a859606ffac4b24086bf19930a14083
+      internalID: -198556748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_217
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 73
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719d54e49bbbab64aa847403fa458647
+      internalID: -1740037649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_218
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f671cabe20c2349ad117a35e74a6d0
+      internalID: -1146470474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_219
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 73
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09975de317315c647922f383d1a85527
+      internalID: -891296145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_220
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 75
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090533eeaca3ba341bdcf120f2607e7d
+      internalID: 90498472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_221
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 74
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b98d768fa17754a93c45f9a1377782
+      internalID: 1334667326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_222
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 72
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a80e5a3d74a7a74db135d35afaf45d3
+      internalID: -594905805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_223
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 74
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb88ff07ba866146abc5d89783a24ba
+      internalID: 1084162221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_224
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 70
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1a7acdbc07294a842abec9372b780
+      internalID: -1647827669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_225
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 70
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177eced85a6c6b0469fddac08f2529fe
+      internalID: 122064302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_226
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 70
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bb722f232f02e46961ecf903b78141
+      internalID: 1167715142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_227
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 70
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada51328382cfe44b7ce4e0bbfe4800
+      internalID: 1556948097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_228
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 70
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48fd9b6e68c1d243bcff7c814fe6309
+      internalID: 195943859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_229
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 70
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9a6e35fb9bcd845828b25f4ad06571
+      internalID: 485884578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d5825646e6964cbd0e5ebefa8769c
+      internalID: -1468502894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_231
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a44d57f1da05a469b2d0a51b5b1943
+      internalID: 1276379260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_232
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 48
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13773fc88822c1242b13b5401bb5df80
+      internalID: -1960219178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_233
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 48
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e7df89c8546a542bb6755fbf05ee38
+      internalID: -585962355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_234
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d02bf2397d344cae333864d0db09f
+      internalID: -1107537814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_235
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 48
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d1547aa9d943d4fb2a9eae87a2b19a
+      internalID: -1221829637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_236
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5e81801509e0840a6700e472e94b14
+      internalID: -1007676642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_237
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 48
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcb11f596071b64a9be64872a9740d2
+      internalID: -540976114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_238
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 48
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec3ba9ede981304280ff4d2a181be80
+      internalID: 891613699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_239
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 48
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5beb44a04b24114ba8aa9167c16551a
+      internalID: 848699978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_240
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 48
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b56ea24c58aff14a8817c389066f168
+      internalID: -473296691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_241
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 48
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da623336c8f97a4896290f3a76e8f20
+      internalID: 1312831604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_242
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab6eaa325ae9934faed0aa026dad0eb
+      internalID: 336106661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_243
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 48
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aec6904ec308c748bff6c6bb42a0c8b
+      internalID: 262922744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_244
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587ac547df430134291095b0b1cc0f7d
+      internalID: 437504925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_245
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 48
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91133a7413eecee489c1bb5af4dfefe8
+      internalID: 524649603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ec982b4f4209a458e674bb2c4e7b09
+      internalID: -2044921058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_247
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658e9d540967dda44bbb0b58c127dc0e
+      internalID: 2073665478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_248
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bd7ae18583ac24f8d331aa8701ba09
+      internalID: -736166501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_249
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0958062bf1a7a5547b3da97fad7735ca
+      internalID: -1597614978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_250
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb643635e5707b4f8415a52beeefdfe
+      internalID: 1483853889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_251
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc1b836904d374c9b04aada3ffb2b4
+      internalID: -2055689119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_252
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab6a99209ef59c48956c77b4db4b790
+      internalID: -478108634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_253
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4454dbd4ed3cd094ba4fbd2d0855651a
+      internalID: -1623949195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_254
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4beeb99332fa4c92e7c4b96dc7a70
+      internalID: 11070633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_255
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6a10e2b0128b444b5426b01a38c434
+      internalID: -1842946758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_256
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 20
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f7de566f7f9d4385a95c7f3dc03a6
+      internalID: 2050797991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_257
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c720ae2939db4bb079d5eefb43f9b
+      internalID: -792262250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_258
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95487181aff751a4697b388c6f985282
+      internalID: -1705668649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_259
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa12eb67154f27a4b937cd6f102a48f7
+      internalID: -904698147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_260
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 9
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9c88c2a55256f41ab1880cf56f8c41
+      internalID: -755664389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_261
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 17
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dcd07773655424cb7080a21f73a032
+      internalID: 1537213549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_262
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 8
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e44b754aea46841b0608308c05ca05
+      internalID: 371079529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_263
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 8
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac81dd7f9bc67834ea3912b077c87a20
+      internalID: 91022762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_264
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8268085403e7f44d93ecb9ffd1d0407
+      internalID: -425885720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_265
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb19b756e46ab09448eeb623e0581a6e
+      internalID: -445508821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_266
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 13
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60085a144e7e145aa60065320ba6af
+      internalID: 342793203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_267
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e981ce1724fa43b2724a13acb23e9
+      internalID: -797837006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_268
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 12
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d902e64a164aa0f4ea462e3c9bef85c9
+      internalID: -1890577881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_269
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043dc911f95012348874a0592e7f809f
+      internalID: 1114655741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_270
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d329acc98ba945a6b4addd10b67f4
+      internalID: 286881989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomber Boy Bootleg - Enemies_271
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab454209cec5846ac4f00b17f7f482
+      internalID: -946634098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Bomber Boy Bootleg - Enemies_182: 636828332
+      NES - Bomber Boy Bootleg - Enemies_236: -1007676642
+      NES - Bomber Boy Bootleg - Enemies_114: 1812706128
+      NES - Bomber Boy Bootleg - Enemies_237: -540976114
+      NES - Bomber Boy Bootleg - Enemies_107: 758677390
+      NES - Bomber Boy Bootleg - Enemies_86: 1894596533
+      NES - Bomber Boy Bootleg - Enemies_225: 122064302
+      NES - Bomber Boy Bootleg - Enemies_119: -56146607
+      NES - Bomber Boy Bootleg - Enemies_26: -1525676680
+      NES - Bomber Boy Bootleg - Enemies_131: -1897137585
+      NES - Bomber Boy Bootleg - Enemies_239: 848699978
+      NES - Bomber Boy Bootleg - Enemies_123: 2100174471
+      NES - Bomber Boy Bootleg - Enemies_163: -1481089620
+      NES - Bomber Boy Bootleg - Enemies_213: 20236287
+      NES - Bomber Boy Bootleg - Enemies_104: 933166298
+      NES - Bomber Boy Bootleg - Enemies_28: -622088234
+      NES - Bomber Boy Bootleg - Enemies_174: 1677652411
+      NES - Bomber Boy Bootleg - Enemies_18: -892319038
+      NES - Bomber Boy Bootleg - Enemies_51: 1400216162
+      NES - Bomber Boy Bootleg - Enemies_13: 110593163
+      NES - Bomber Boy Bootleg - Enemies_229: 485884578
+      NES - Bomber Boy Bootleg - Enemies_262: 371079529
+      NES - Bomber Boy Bootleg - Enemies_11: 865705509
+      NES - Bomber Boy Bootleg - Enemies_23: -203760575
+      NES - Bomber Boy Bootleg - Enemies_5: 1366503078
+      NES - Bomber Boy Bootleg - Enemies_109: 280127532
+      NES - Bomber Boy Bootleg - Enemies_147: 324501279
+      NES - Bomber Boy Bootleg - Enemies_118: 1928513580
+      NES - Bomber Boy Bootleg - Enemies_112: 2023763706
+      NES - Bomber Boy Bootleg - Enemies_188: 549372546
+      NES - Bomber Boy Bootleg - Enemies_220: 90498472
+      NES - Bomber Boy Bootleg - Enemies_89: 759856268
+      NES - Bomber Boy Bootleg - Enemies_164: -639471584
+      NES - Bomber Boy Bootleg - Enemies_186: -1894392319
+      NES - Bomber Boy Bootleg - Enemies_87: -1427018698
+      NES - Bomber Boy Bootleg - Enemies_204: 1337973690
+      NES - Bomber Boy Bootleg - Enemies_215: 1823059254
+      NES - Bomber Boy Bootleg - Enemies_94: -1022936639
+      NES - Bomber Boy Bootleg - Enemies_2: -1372252546
+      NES - Bomber Boy Bootleg - Enemies_69: -937683669
+      NES - Bomber Boy Bootleg - Enemies_234: -1107537814
+      NES - Bomber Boy Bootleg - Enemies_183: -1848783407
+      NES - Bomber Boy Bootleg - Enemies_176: -1845177880
+      NES - Bomber Boy Bootleg - Enemies_99: 69679208
+      NES - Bomber Boy Bootleg - Enemies_263: 91022762
+      NES - Bomber Boy Bootleg - Enemies_168: -236280787
+      NES - Bomber Boy Bootleg - Enemies_148: -2131671428
+      NES - Bomber Boy Bootleg - Enemies_137: 1179893154
+      NES - Bomber Boy Bootleg - Enemies_154: 703348151
+      NES - Bomber Boy Bootleg - Enemies_41: -1392358182
+      NES - Bomber Boy Bootleg - Enemies_61: 1769995308
+      NES - Bomber Boy Bootleg - Enemies_108: -1900505531
+      NES - Bomber Boy Bootleg - Enemies_57: 1618973906
+      NES - Bomber Boy Bootleg - Enemies_138: 1450478587
+      NES - Bomber Boy Bootleg - Enemies_184: 2090919345
+      NES - Bomber Boy Bootleg - Enemies_227: 1556948097
+      NES - Bomber Boy Bootleg - Enemies_142: 1639395636
+      NES - Bomber Boy Bootleg - Enemies_189: 1237593199
+      NES - Bomber Boy Bootleg - Enemies_230: -1468502894
+      NES - Bomber Boy Bootleg - Enemies_222: -594905805
+      NES - Bomber Boy Bootleg - Enemies_206: -1305242502
+      NES - Bomber Boy Bootleg - Enemies_136: 1786203037
+      NES - Bomber Boy Bootleg - Enemies_43: -1139003281
+      NES - Bomber Boy Bootleg - Enemies_181: -517174460
+      NES - Bomber Boy Bootleg - Enemies_14: -1243053478
+      NES - Bomber Boy Bootleg - Enemies_256: 2050797991
+      NES - Bomber Boy Bootleg - Enemies_199: -120548410
+      NES - Bomber Boy Bootleg - Enemies_126: -142332618
+      NES - Bomber Boy Bootleg - Enemies_169: 1096017992
+      NES - Bomber Boy Bootleg - Enemies_140: -1446006148
+      NES - Bomber Boy Bootleg - Enemies_165: -1110337507
+      NES - Bomber Boy Bootleg - Enemies_233: -585962355
+      NES - Bomber Boy Bootleg - Enemies_110: 1613917280
+      NES - Bomber Boy Bootleg - Enemies_179: -359901088
+      NES - Bomber Boy Bootleg - Enemies_88: 617660706
+      NES - Bomber Boy Bootleg - Enemies_190: 493112827
+      NES - Bomber Boy Bootleg - Enemies_247: 2073665478
+      NES - Bomber Boy Bootleg - Enemies_254: 11070633
+      NES - Bomber Boy Bootleg - Enemies_106: -38029392
+      NES - Bomber Boy Bootleg - Enemies_53: 301498552
+      NES - Bomber Boy Bootleg - Enemies_66: -846211612
+      NES - Bomber Boy Bootleg - Enemies_79: -1729425017
+      NES - Bomber Boy Bootleg - Enemies_71: -453001351
+      NES - Bomber Boy Bootleg - Enemies_21: 222264020
+      NES - Bomber Boy Bootleg - Enemies_15: 1827043025
+      NES - Bomber Boy Bootleg - Enemies_102: -1523416903
+      NES - Bomber Boy Bootleg - Enemies_175: -1021920292
+      NES - Bomber Boy Bootleg - Enemies_65: -1624521836
+      NES - Bomber Boy Bootleg - Enemies_115: 1896273197
+      NES - Bomber Boy Bootleg - Enemies_268: -1890577881
+      NES - Bomber Boy Bootleg - Enemies_249: -1597614978
+      NES - Bomber Boy Bootleg - Enemies_205: -11998924
+      NES - Bomber Boy Bootleg - Enemies_19: 1231450858
+      NES - Bomber Boy Bootleg - Enemies_149: -1595638836
+      NES - Bomber Boy Bootleg - Enemies_198: 342221791
+      NES - Bomber Boy Bootleg - Enemies_144: -1242232410
+      NES - Bomber Boy Bootleg - Enemies_116: 1791670553
+      NES - Bomber Boy Bootleg - Enemies_195: -1497421272
+      NES - Bomber Boy Bootleg - Enemies_228: 195943859
+      NES - Bomber Boy Bootleg - Enemies_259: -904698147
+      NES - Bomber Boy Bootleg - Enemies_270: 286881989
+      NES - Bomber Boy Bootleg - Enemies_3: -1732326883
+      NES - Bomber Boy Bootleg - Enemies_6: 1186558377
+      NES - Bomber Boy Bootleg - Enemies_4: -1901346940
+      NES - Bomber Boy Bootleg - Enemies_121: 333476638
+      NES - Bomber Boy Bootleg - Enemies_203: 132538200
+      NES - Bomber Boy Bootleg - Enemies_77: -480994271
+      NES - Bomber Boy Bootleg - Enemies_146: 1266086221
+      NES - Bomber Boy Bootleg - Enemies_194: 1920045875
+      NES - Bomber Boy Bootleg - Enemies_44: -1070726619
+      NES - Bomber Boy Bootleg - Enemies_269: 1114655741
+      NES - Bomber Boy Bootleg - Enemies_1: 437370458
+      NES - Bomber Boy Bootleg - Enemies_34: 807865512
+      NES - Bomber Boy Bootleg - Enemies_134: -1103886253
+      NES - Bomber Boy Bootleg - Enemies_157: 1705197267
+      NES - Bomber Boy Bootleg - Enemies_217: -1740037649
+      NES - Bomber Boy Bootleg - Enemies_64: -327689244
+      NES - Bomber Boy Bootleg - Enemies_193: 2119504677
+      NES - Bomber Boy Bootleg - Enemies_196: 837798451
+      NES - Bomber Boy Bootleg - Enemies_33: -429718665
+      NES - Bomber Boy Bootleg - Enemies_62: -429788484
+      NES - Bomber Boy Bootleg - Enemies_7: -286554283
+      NES - Bomber Boy Bootleg - Enemies_238: 891613699
+      NES - Bomber Boy Bootleg - Enemies_78: -583137858
+      NES - Bomber Boy Bootleg - Enemies_260: -755664389
+      NES - Bomber Boy Bootleg - Enemies_42: 903078465
+      NES - Bomber Boy Bootleg - Enemies_46: -220902658
+      NES - Bomber Boy Bootleg - Enemies_185: 690089500
+      NES - Bomber Boy Bootleg - Enemies_92: 1218597216
+      NES - Bomber Boy Bootleg - Enemies_8: 2079908820
+      NES - Bomber Boy Bootleg - Enemies_145: -1160596839
+      NES - Bomber Boy Bootleg - Enemies_133: 1939525390
+      NES - Bomber Boy Bootleg - Enemies_68: -1079387114
+      NES - Bomber Boy Bootleg - Enemies_197: -564255213
+      NES - Bomber Boy Bootleg - Enemies_122: -1604589242
+      NES - Bomber Boy Bootleg - Enemies_219: -891296145
+      NES - Bomber Boy Bootleg - Enemies_12: 316382130
+      NES - Bomber Boy Bootleg - Enemies_132: -1834155714
+      NES - Bomber Boy Bootleg - Enemies_235: -1221829637
+      NES - Bomber Boy Bootleg - Enemies_31: 1627120817
+      NES - Bomber Boy Bootleg - Enemies_244: 437504925
+      NES - Bomber Boy Bootleg - Enemies_155: 682713272
+      NES - Bomber Boy Bootleg - Enemies_0: -1151534324
+      NES - Bomber Boy Bootleg - Enemies_243: 262922744
+      NES - Bomber Boy Bootleg - Enemies_120: 471869063
+      NES - Bomber Boy Bootleg - Enemies_50: 850502575
+      NES - Bomber Boy Bootleg - Enemies_191: 923350781
+      NES - Bomber Boy Bootleg - Enemies_240: -473296691
+      NES - Bomber Boy Bootleg - Enemies_208: 1474470178
+      NES - Bomber Boy Bootleg - Enemies_55: -980018694
+      NES - Bomber Boy Bootleg - Enemies_271: -946634098
+      NES - Bomber Boy Bootleg - Enemies_156: 474198061
+      NES - Bomber Boy Bootleg - Enemies_224: -1647827669
+      NES - Bomber Boy Bootleg - Enemies_242: 336106661
+      NES - Bomber Boy Bootleg - Enemies_201: -1038679238
+      NES - Bomber Boy Bootleg - Enemies_37: 243497149
+      NES - Bomber Boy Bootleg - Enemies_226: 1167715142
+      NES - Bomber Boy Bootleg - Enemies_60: 1546841732
+      NES - Bomber Boy Bootleg - Enemies_231: 1276379260
+      NES - Bomber Boy Bootleg - Enemies_258: -1705668649
+      NES - Bomber Boy Bootleg - Enemies_27: 752815085
+      NES - Bomber Boy Bootleg - Enemies_29: -1777910725
+      NES - Bomber Boy Bootleg - Enemies_98: -1889415888
+      NES - Bomber Boy Bootleg - Enemies_252: -478108634
+      NES - Bomber Boy Bootleg - Enemies_210: 541763232
+      NES - Bomber Boy Bootleg - Enemies_20: -1631608008
+      NES - Bomber Boy Bootleg - Enemies_245: 524649603
+      NES - Bomber Boy Bootleg - Enemies_160: 768944595
+      NES - Bomber Boy Bootleg - Enemies_211: -482534538
+      NES - Bomber Boy Bootleg - Enemies_70: 3284313
+      NES - Bomber Boy Bootleg - Enemies_167: 1792133417
+      NES - Bomber Boy Bootleg - Enemies_207: 1301703360
+      NES - Bomber Boy Bootleg - Enemies_85: 1363574280
+      NES - Bomber Boy Bootleg - Enemies_25: -1714429854
+      NES - Bomber Boy Bootleg - Enemies_32: -1529244439
+      NES - Bomber Boy Bootleg - Enemies_141: -1046093002
+      NES - Bomber Boy Bootleg - Enemies_266: 342793203
+      NES - Bomber Boy Bootleg - Enemies_161: 946798635
+      NES - Bomber Boy Bootleg - Enemies_17: -170916834
+      NES - Bomber Boy Bootleg - Enemies_127: 1056642681
+      NES - Bomber Boy Bootleg - Enemies_150: -1405400379
+      NES - Bomber Boy Bootleg - Enemies_63: 379093084
+      NES - Bomber Boy Bootleg - Enemies_73: -1993404299
+      NES - Bomber Boy Bootleg - Enemies_159: -183649338
+      NES - Bomber Boy Bootleg - Enemies_95: 1251574483
+      NES - Bomber Boy Bootleg - Enemies_125: 812829114
+      NES - Bomber Boy Bootleg - Enemies_75: -18290328
+      NES - Bomber Boy Bootleg - Enemies_93: -892553557
+      NES - Bomber Boy Bootleg - Enemies_251: -2055689119
+      NES - Bomber Boy Bootleg - Enemies_171: 1952231958
+      NES - Bomber Boy Bootleg - Enemies_255: -1842946758
+      NES - Bomber Boy Bootleg - Enemies_261: 1537213549
+      NES - Bomber Boy Bootleg - Enemies_91: 1249252675
+      NES - Bomber Boy Bootleg - Enemies_257: -792262250
+      NES - Bomber Boy Bootleg - Enemies_212: -621946938
+      NES - Bomber Boy Bootleg - Enemies_30: -2120646321
+      NES - Bomber Boy Bootleg - Enemies_39: 96196254
+      NES - Bomber Boy Bootleg - Enemies_81: 1411056844
+      NES - Bomber Boy Bootleg - Enemies_124: -1957498371
+      NES - Bomber Boy Bootleg - Enemies_187: -501540945
+      NES - Bomber Boy Bootleg - Enemies_24: 780341583
+      NES - Bomber Boy Bootleg - Enemies_103: 1957393865
+      NES - Bomber Boy Bootleg - Enemies_180: 335150438
+      NES - Bomber Boy Bootleg - Enemies_59: 1684918423
+      NES - Bomber Boy Bootleg - Enemies_162: 1042032276
+      NES - Bomber Boy Bootleg - Enemies_84: 1445911796
+      NES - Bomber Boy Bootleg - Enemies_72: -712619775
+      NES - Bomber Boy Bootleg - Enemies_139: -533036924
+      NES - Bomber Boy Bootleg - Enemies_177: -1251483255
+      NES - Bomber Boy Bootleg - Enemies_52: -1904509178
+      NES - Bomber Boy Bootleg - Enemies_49: 1349221650
+      NES - Bomber Boy Bootleg - Enemies_82: 1639720062
+      NES - Bomber Boy Bootleg - Enemies_202: -872790098
+      NES - Bomber Boy Bootleg - Enemies_253: -1623949195
+      NES - Bomber Boy Bootleg - Enemies_192: -1832773668
+      NES - Bomber Boy Bootleg - Enemies_54: 2131145777
+      NES - Bomber Boy Bootleg - Enemies_74: 578824941
+      NES - Bomber Boy Bootleg - Enemies_153: -1291965612
+      NES - Bomber Boy Bootleg - Enemies_40: -1854044553
+      NES - Bomber Boy Bootleg - Enemies_10: -1651576403
+      NES - Bomber Boy Bootleg - Enemies_135: 410927979
+      NES - Bomber Boy Bootleg - Enemies_100: -1220529249
+      NES - Bomber Boy Bootleg - Enemies_36: -268375638
+      NES - Bomber Boy Bootleg - Enemies_38: 13283205
+      NES - Bomber Boy Bootleg - Enemies_152: -1404544079
+      NES - Bomber Boy Bootleg - Enemies_221: 1334667326
+      NES - Bomber Boy Bootleg - Enemies_80: -1968143563
+      NES - Bomber Boy Bootleg - Enemies_129: 401379402
+      NES - Bomber Boy Bootleg - Enemies_265: -445508821
+      NES - Bomber Boy Bootleg - Enemies_16: -6672253
+      NES - Bomber Boy Bootleg - Enemies_9: 825244257
+      NES - Bomber Boy Bootleg - Enemies_113: -2019856319
+      NES - Bomber Boy Bootleg - Enemies_45: -1866631236
+      NES - Bomber Boy Bootleg - Enemies_117: -369919536
+      NES - Bomber Boy Bootleg - Enemies_58: 957077792
+      NES - Bomber Boy Bootleg - Enemies_67: 1718814809
+      NES - Bomber Boy Bootleg - Enemies_48: 1881684221
+      NES - Bomber Boy Bootleg - Enemies_216: -198556748
+      NES - Bomber Boy Bootleg - Enemies_209: -1483384566
+      NES - Bomber Boy Bootleg - Enemies_218: -1146470474
+      NES - Bomber Boy Bootleg - Enemies_83: -1049880277
+      NES - Bomber Boy Bootleg - Enemies_90: 1251000429
+      NES - Bomber Boy Bootleg - Enemies_35: 1159467807
+      NES - Bomber Boy Bootleg - Enemies_200: -1626763485
+      NES - Bomber Boy Bootleg - Enemies_151: -779259341
+      NES - Bomber Boy Bootleg - Enemies_47: -1921367853
+      NES - Bomber Boy Bootleg - Enemies_101: -1491755894
+      NES - Bomber Boy Bootleg - Enemies_250: 1483853889
+      NES - Bomber Boy Bootleg - Enemies_111: -767422926
+      NES - Bomber Boy Bootleg - Enemies_178: 1859321754
+      NES - Bomber Boy Bootleg - Enemies_97: -1109518371
+      NES - Bomber Boy Bootleg - Enemies_128: -1842842971
+      NES - Bomber Boy Bootleg - Enemies_264: -425885720
+      NES - Bomber Boy Bootleg - Enemies_241: 1312831604
+      NES - Bomber Boy Bootleg - Enemies_158: -2069358840
+      NES - Bomber Boy Bootleg - Enemies_172: -1362893058
+      NES - Bomber Boy Bootleg - Enemies_170: -2076741832
+      NES - Bomber Boy Bootleg - Enemies_130: 998686648
+      NES - Bomber Boy Bootleg - Enemies_214: -1703865854
+      NES - Bomber Boy Bootleg - Enemies_248: -736166501
+      NES - Bomber Boy Bootleg - Enemies_267: -797837006
+      NES - Bomber Boy Bootleg - Enemies_96: -984566037
+      NES - Bomber Boy Bootleg - Enemies_22: 1471509788
+      NES - Bomber Boy Bootleg - Enemies_232: -1960219178
+      NES - Bomber Boy Bootleg - Enemies_246: -2044921058
+      NES - Bomber Boy Bootleg - Enemies_105: -1961304449
+      NES - Bomber Boy Bootleg - Enemies_223: 1084162221
+      NES - Bomber Boy Bootleg - Enemies_173: 748987733
+      NES - Bomber Boy Bootleg - Enemies_76: 362556791
+      NES - Bomber Boy Bootleg - Enemies_56: -599457460
+      NES - Bomber Boy Bootleg - Enemies_143: 1190824937
+      NES - Bomber Boy Bootleg - Enemies_166: 1499695571
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
