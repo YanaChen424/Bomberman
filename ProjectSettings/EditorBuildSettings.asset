@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Duo.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: b780cdc71c8f3df408ac93d7d48ff8a4
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 746e82599f1ef23459ecd53264fdf163
+  - enabled: 1
     path: Assets/Scenes/End Screen.unity
     guid: 9c925d8f55f22cd4d8b6a25f9f7ed50a
   m_configObjects: {}

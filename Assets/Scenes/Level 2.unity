@@ -3105,7 +3105,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 656184259}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de41aa02c99a7ae4285f21d8197551b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 61034adb0643dd245913a7cde0d343ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &849270329
@@ -3134,12 +3134,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 849270329}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f2393430025a85c45a8d0ea927975962, type: 3}
+  m_Script: {fileID: 11500000, guid: 64bf1a7e3d2a21a4f8d7d3fe554b24b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  players:
-  - {fileID: 550835313}
-  - {fileID: 0}
+  player: {fileID: 550835313}
+  enemies:
+  - {fileID: 656184259}
+  - {fileID: 1445656697}
+  nextSceneName: End Screen
 --- !u!4 &849270331
 Transform:
   m_ObjectHideFlags: 0
@@ -3409,7 +3411,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1445656697}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de41aa02c99a7ae4285f21d8197551b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 61034adb0643dd245913a7cde0d343ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1513814811
