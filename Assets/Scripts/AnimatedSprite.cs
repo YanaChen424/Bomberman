@@ -7,8 +7,9 @@ public class AnimatedSprite : MonoBehaviour
     private SpriteRenderer spriteRenderer;
 
     public Sprite idleSprite;
+    //list of the sprites in animation
     public Sprite[] animationSprites;
-
+    //defult value,changes according to animation time in unity
     public float animationTime = 0.25f;
     private int animationFrame;
 
@@ -17,6 +18,7 @@ public class AnimatedSprite : MonoBehaviour
 
     private void Awake()
     {
+        //get sprite renderer component from unity
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
     private void OnEnable()
@@ -29,11 +31,15 @@ public class AnimatedSprite : MonoBehaviour
     }
     void Start()
     {
+        //invoke NextFrame function to change to the next sprite
+        //invoke every animationtime
         InvokeRepeating(nameof(NextFrame), animationTime, animationTime);
     }
     private void NextFrame()
     {
+        //when we get to the next frame increase index
         animationFrame++;
+        //loop back in the end of the animation
         if(loop && animationFrame >= animationSprites.Length)
         {
             animationFrame = 0;
@@ -41,6 +47,7 @@ public class AnimatedSprite : MonoBehaviour
         if(idle)
         {
             spriteRenderer.sprite=idleSprite;
+        //make the animation
         }else if(animationFrame>=0 && animationFrame < animationSprites.Length)
         {
             spriteRenderer.sprite=animationSprites[animationFrame];

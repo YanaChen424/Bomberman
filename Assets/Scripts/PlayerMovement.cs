@@ -10,11 +10,13 @@ public class PlayerMovement : MonoBehaviour
     Vector2 direction= Vector2.down;
     public float Speed;
 
+    //player defult keys
     public KeyCode inputUp=KeyCode.UpArrow;
     public KeyCode inputDown=KeyCode.DownArrow;
     public KeyCode inputLeft=KeyCode.LeftArrow;
     public KeyCode inputRight=KeyCode.RightArrow;
 
+    //using "sons" in script
     public AnimatedSprite spriteRendererUp;
     public AnimatedSprite spriteRendererDown;
     public AnimatedSprite spriteRendererLeft;
@@ -22,13 +24,14 @@ public class PlayerMovement : MonoBehaviour
     public AnimatedSprite spriteRendererDeath;
 
     private AnimatedSprite activeSpriteRenderer;
-
+    //using in enemy script
     public static float xPos;
     public static float yPos;
 
     private void Awake()
     {
         rigidbody = GetComponent<Rigidbody2D>();
+        //idle sprite down
         activeSpriteRenderer=spriteRendererDown;
     }
     void Start()
@@ -39,8 +42,11 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        ////using in enemy script
         xPos = transform.position.x;
         yPos = transform.position.y;
+
+        //call to function according to direction
         if (Input.GetKey(inputUp))
         {
             SetDirection(Vector2.up,spriteRendererUp);
@@ -60,7 +66,7 @@ public class PlayerMovement : MonoBehaviour
             SetDirection(Vector2.zero,activeSpriteRenderer);
         }
     }
-
+    //change player position every physical update
     private void FixedUpdate()
     {
         Vector2 position=rigidbody.position;
@@ -68,6 +74,7 @@ public class PlayerMovement : MonoBehaviour
 
         rigidbody.MovePosition(position + translation);
     }
+    //change animation according to direction
     private void SetDirection(Vector2 newDirection,AnimatedSprite spriteRenderer)
     {
         direction = newDirection;
@@ -80,6 +87,7 @@ public class PlayerMovement : MonoBehaviour
         activeSpriteRenderer = spriteRenderer;
         activeSpriteRenderer.idle=direction == Vector2.zero;
     }
+    //death by explosion
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.layer == LayerMask.NameToLayer("Explosion"))
@@ -87,6 +95,7 @@ public class PlayerMovement : MonoBehaviour
             DeathSequence();
         }
     }
+    //death by enemy
     void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.tag=="Enemy")
@@ -94,6 +103,7 @@ public class PlayerMovement : MonoBehaviour
             DeathSequence();
         }
     }
+    //death animation unable
     private void DeathSequence()
     {
         enabled = false;
@@ -107,6 +117,7 @@ public class PlayerMovement : MonoBehaviour
 
         Invoke(nameof(OnDeathSequenceEnded),1.25f);
     }
+    //check if the player won
     private void OnDeathSequenceEnded()
     {
         gameObject.SetActive(false);

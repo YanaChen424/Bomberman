@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EndManu : MonoBehaviour
 {
@@ -9,6 +10,6 @@ public class EndManu : MonoBehaviour
 
     public void Quit()
     {
-      Application.Quit();
+        SceneManager.LoadScene("Start Screen");
     }
 }
